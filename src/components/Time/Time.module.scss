@@ -1,0 +1,7 @@
+@use "../../styles/" as s;
+
+.time {
+    font-size: 3rem;
+    color: s.$light-color;
+    margin: 0;
+}

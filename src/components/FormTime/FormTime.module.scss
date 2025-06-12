@@ -1,0 +1,13 @@
+@use "../../styles/" as s;
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btns {
+    display: flex;
+    gap: 1.2rem;
+}

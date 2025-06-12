@@ -1,0 +1,13 @@
+@use "./settings.scss" as s;
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    background: s.$primary-color;
+}
